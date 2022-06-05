@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NotebookFirebaseStorage</string>
+    <string name="database">Database</string>
+
+    <string name="title">Title</string>
+    <string name="theme">Theme</string>
+    <string name="description">Description</string>
+
+    <string name="add">Add</string>
+    <string name="close">Close</string>
+
+    <string name="show_note_list">Show note list</string>
+    <string name="add_note">Add note</string>
+    <string name="note_details">Note details</string>
+</resources>
